@@ -275,3 +275,7 @@ iface vnet0
 	bridge_fd 0
 	ip-forward on
 ```
+
+Referencias:
+
+[Install Proxmox On A Hetzner Dedicated Server With 1 IP Using SDN And Without KVM Using QEMU - CyanLabs](https://cyanlabs.net/tutorials/install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/)
