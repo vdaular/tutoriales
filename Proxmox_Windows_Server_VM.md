@@ -1,8 +1,8 @@
 
 
-# Generar una plantilla de Windows Server 2022 Standard
+# Generar una máquina virtual con Windows Server 2022 Standard
 
-Guía de cómo generar una plantilla de Windows Server 2022 Standard Desktop Experience en Proxmox.
+Guía de cómo generar una máquina virtual con Windows Server 2022 Standard Desktop Experience en Proxmox.
 
 ## Requerimientos
 - Proxmox VE.
@@ -15,7 +15,7 @@ Guía de cómo generar una plantilla de Windows Server 2022 Standard Desktop Exp
 - Clic en _Create VM_.
 - Ajustar las opciones:
     - General > VM ID: Asignar el identificador que corresponda.
-    - General > Name: Asignar el nombre a la plantilla.
+    - General > Name: Asignar el nombre a la máquina virtual.
     - OS > Use CD/DVD disc image file (iso) > Storage: Por defecto, es _local_.
     - OS > Use CD/DVD disc image file (iso) > ISO image: Cargar la ISO de _Windows Server 2022_.
     - OS > Guest OS: Seleccionar Type _Windows_ y marcar la opción _Add additional driver for VirtIO drivers_.
@@ -56,4 +56,5 @@ Guía de cómo generar una plantilla de Windows Server 2022 Standard Desktop Exp
 - Esperar a que finalice la instalación. Durante este proceso, la máquina virtual reiniciará dos veces.
 - Configurar la contraseña del usuario _Administrator_.
 - Instalar actualizaciones.
-- Instalar Cloudbase Init y hacer sysprep.
+- Instalar drivers VirtIO-Win.
+- Configurar accesos remotos por SDN.
