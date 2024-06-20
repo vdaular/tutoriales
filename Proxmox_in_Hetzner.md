@@ -1,3 +1,6 @@
+![image](https://github.com/vdaular/tutoriales/assets/136828149/5104609b-f977-4038-97d0-fb176daba810)
+
+
 # Instalación de Proxmox en Servidor Dedicado de Hetzner
 
 Guía de cómo instalar Proxmox en un servidor de dedicado de Hetzner, partiendo del Rescue System de Hezner hasta una instalación completa y segura.
