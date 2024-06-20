@@ -1,3 +1,4 @@
+![image](https://github.com/vdaular/tutoriales/assets/136828149/5104609b-f977-4038-97d0-fb176daba810)
 ![image](https://github.com/vdaular/tutoriales/assets/136828149/a34a86a2-6bf3-4ebc-ba89-e9b567dfd0b1)
 
 # Generar una máquina virtual con Windows Server 2022 Standard
