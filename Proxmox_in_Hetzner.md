@@ -1,4 +1,5 @@
 ![image](https://github.com/vdaular/tutoriales/assets/136828149/5104609b-f977-4038-97d0-fb176daba810)
+![image](https://github.com/vdaular/tutoriales/assets/136828149/295227e3-e599-4d7e-8b5f-1d0ed86d4dfd)
 
 
 # Instalación de Proxmox en Servidor Dedicado de Hetzner
